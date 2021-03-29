@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOOTSTRAP_DEMO", "BOOTSTRAP_DEMO\BOOTSTRAP_DEMO.csproj", "{A993CA8E-A8B8-481E-AB66-05EB4CE9F800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A993CA8E-A8B8-481E-AB66-05EB4CE9F800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A993CA8E-A8B8-481E-AB66-05EB4CE9F800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A993CA8E-A8B8-481E-AB66-05EB4CE9F800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A993CA8E-A8B8-481E-AB66-05EB4CE9F800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A2582DD-076A-43C8-B3B7-DDEFE1E5C01C}
+	EndGlobalSection
+EndGlobal
