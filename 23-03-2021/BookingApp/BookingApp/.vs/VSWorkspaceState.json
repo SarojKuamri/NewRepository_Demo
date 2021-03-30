@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Controllers",
+    "\\Migrations",
+    "\\Models",
+    "\\obj"
+  ],
+  "PreviewInSolutionExplorer": false
+}
